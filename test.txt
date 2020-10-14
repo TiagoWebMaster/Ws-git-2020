@@ -1,0 +1,6 @@
+Lista de frutas:
+maça
+bananas
+amoras
+peras
+
